@@ -1,0 +1,3 @@
+- http://sparkjava.com/
+- https://kotlinlang.org/
+- https://github.com/google/gson
